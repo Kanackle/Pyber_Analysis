@@ -7,7 +7,7 @@ Writing Python scripts using Pandas library and MatPlotLib to showcase the relat
 The results of the ride-sharing date are as follows:
 ### Total rides per city type
 > Urban: 1625\
-> Suburban: 625<br \>
+> Suburban: 625<br />
 > Rural: 125 
 
 ### Total drivers per city type
@@ -16,8 +16,8 @@ The results of the ride-sharing date are as follows:
 > Rural: 78
 
 ### Total fares per city type
-> Urban: 39854.38<br \>
-> Suburban: 19356.33<br \>
+> Urban: 39854.38<br />
+> Suburban: 19356.33<br />
 > Rural: 4327.93
 
 ### Average fare per city type
