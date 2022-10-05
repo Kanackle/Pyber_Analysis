@@ -6,8 +6,8 @@ Writing Python scripts using Pandas library and MatPlotLib to showcase the relat
 ## Results and Analysis
 The results of the ride-sharing date are as follows:
 ### Total rides per city type
-> Urban: 1625
-> Suburban: 625 
+> Urban: 1625\
+> Suburban: 625\ 
 > Rural: 125 
 
 ### Total drivers per city type
